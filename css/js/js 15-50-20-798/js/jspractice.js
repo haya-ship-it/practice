@@ -31,4 +31,12 @@ if (testScore >= 80) {
 //   if(i > 10) break;
 //   console.log(i);
 // }
+'use strict';
 
+let age = 30;
+const name ="田中太郎";
+
+age = age + 2;
+
+
+console.log('$(name)さんの年齢は$(age)です');
